@@ -19,7 +19,7 @@ Ainda não disponivel, mas você pode verificar como ficará o resultado final n
 ## 💡 Funcionalidades
 
 - Layout responsivo para diferentes tamanhos de tela 📱💻
-- Formulário para captura de e-mail com validação simples
+- Formulário para direcionar a página de pagamento
 - Design limpo e objetivo, focado em conversão
 
 ---
