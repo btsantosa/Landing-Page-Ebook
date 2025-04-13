@@ -1,6 +1,6 @@
 # 📚 Landing Page | eBook
 
-Uma landing page simples e responsiva feita para divulgar e vender um eBook gratuito. Ideal para autores, influenciadores ou pequenos negócios que desejam aumentar sua base de leads.
+Uma landing page simples e responsiva feita para divulgar e vender um eBook. Ideal para autores, influenciadores ou pequenos negócios que desejam aumentar sua base de leads.
 
 ---
 
